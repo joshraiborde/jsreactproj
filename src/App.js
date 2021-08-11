@@ -5,7 +5,7 @@ import Home from './Home';
 import About from './About';
 import Contact from './Contact';
 import Projects from './Projects';
-import { Route, Link } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import NavBar from './NavBar';
 
 function App() {
